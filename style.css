@@ -92,8 +92,6 @@
   
   .btn:hover {
     background-color: #9fff82;
-    transform: scale(0.9);
-    transition: 0.3s;
   }
   
   .large-btn {
@@ -215,7 +213,7 @@
   }
   
   .task {
-    margin: 5px 0;
+    margin-top: 15px;
   }
   
   .hidden {
