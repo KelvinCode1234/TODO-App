@@ -68,7 +68,7 @@
   
   .btn {
     cursor: pointer;
-    width: 28%;
+    width: 25%;
     margin: 10px;
     color: var(--dark-grey);
     background-color: var(--golden-yellow);
@@ -95,7 +95,7 @@
   }
   
   .large-btn {
-    width: 50%;
+    width: 35%;
     font-size: 1.1rem;
     align-self: center;
     justify-self: center;
@@ -271,14 +271,23 @@
     }
 
     hr {
-      width: 88%;
+      width: 95%; 
     }
-
+    
     .large-btn {
-       font-size: 20px;
+      font-size: 18px;
+    }
+   
+    .btn {
+      width: 42%;
+    }
+     
+    h3 {
+      font-size: 14px;
     }
 
-    p{
+    p {
       font-size: 18px;
+      font-weight: 500;
     }
   }
